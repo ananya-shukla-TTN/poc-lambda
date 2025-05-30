@@ -1,4 +1,4 @@
-package com.ttn;
+package com.ttn.awslambda;
 
 public class Main {
     public static void main(String[] args) {
